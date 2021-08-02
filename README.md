@@ -1,7 +1,4 @@
 ## Raunex
-
-Atuo como DevOps Engineer na Social Miner, formado em Redes de Computadores pela Universidade Nove de Julho. Possuo experiência como instrutor de cursos voltados ao Sistema Operacional Linux e Ferramentas de Monitoramento OpenSource.
-
 <div>
   <a href="https://github.com/Raunex">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raunex&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
