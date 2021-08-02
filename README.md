@@ -1,10 +1,14 @@
 ## Raunex
+
+![image](https://media1.tenor.com/images/974ba34fba7c3156601396aeba480c03/tenor.gif?itemid=13487141)
+
 Atuo como DevOps Engineer na Social Miner, formado em Redes de Computadores pela Universidade Nove de Julho. Possuo experiência como instrutor de cursos voltados ao Sistema Operacional Linux e Ferramentas de Monitoramento OpenSource.
 
  <div>
   <a href="https://github.com/Raunex">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raunex&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raunex&layout=compact&langs_count=7&theme=merko"/>
+   <img src="https://komarev.com/ghpvc/?username=Raunex&color=green" alt="Raunex" />
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Raunex-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
