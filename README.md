@@ -1,7 +1,5 @@
 ## Raunex
 
-![image](https://media1.tenor.com/images/974ba34fba7c3156601396aeba480c03/tenor.gif?itemid=13487141)
-
 Atuo como DevOps Engineer na Social Miner, formado em Redes de Computadores pela Universidade Nove de Julho. Possuo experiência como instrutor de cursos voltados ao Sistema Operacional Linux e Ferramentas de Monitoramento OpenSource.
 
  <div>
@@ -24,7 +22,9 @@ Atuo como DevOps Engineer na Social Miner, formado em Redes de Computadores pela
   <img align="center" alt="Raunex-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Raunex-Jenkins" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
   <img align="center" alt="Raunex-VScode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-</div>
+  <img align="right" alt="Raunex-Penguim" src="https://media1.tenor.com/images/974ba34fba7c3156601396aeba480c03/tenor.gif?itemid=13487141">
+
+ </div>
   
   ##
  
