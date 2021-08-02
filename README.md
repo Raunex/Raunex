@@ -2,7 +2,7 @@
 
 Atuo como DevOps Engineer na Social Miner, formado em Redes de Computadores pela Universidade Nove de Julho. Possuo experiência como instrutor de cursos voltados ao Sistema Operacional Linux e Ferramentas de Monitoramento OpenSource.
 
- <div>
+<div>
   <a href="https://github.com/Raunex">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raunex&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raunex&layout=compact&langs_count=7&theme=merko"/>
@@ -24,7 +24,7 @@ Atuo como DevOps Engineer na Social Miner, formado em Redes de Computadores pela
   <img align="center" alt="Raunex-VScode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="right" alt="Raunex-Penguim" src="https://media1.tenor.com/images/974ba34fba7c3156601396aeba480c03/tenor.gif?itemid=13487141">
 
- </div>
+</div>
   
   ##
  
@@ -34,6 +34,6 @@ Atuo como DevOps Engineer na Social Miner, formado em Redes de Computadores pela
   <a href = "mailto:rauny.linux@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rauny-moreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Raunex/Raunex/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Raunex/Raunex/blob/output/github-contribution-grid-snake.svg)
  
 </div>
