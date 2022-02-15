@@ -7,13 +7,13 @@ Atuo como DevOps Engineer na Social Miner, formado em Redes de Computadores pela
 <div>
   <a href="https://github.com/Raunex">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Raunex&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raunex&layout=compact&langs_count=7&theme=merko"/>       
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raunex&layout=compact&langs_count=7&theme=merko"/>
+  <img src="https://komarev.com/ghpvc/?username=Raunex&color=green" alt="Raunex"/>
 </div>
 
 ##
   
 <div style="display: inline_block"><br>
-  <img src="https://komarev.com/ghpvc/?username=Raunex&color=green" alt="Raunex"/>
   <img align="center" alt="Raunex-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Raunex-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="Raunex-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
