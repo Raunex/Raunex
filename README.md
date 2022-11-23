@@ -1,6 +1,6 @@
 ## Raunex
 
-Atuo como DevOps Engineer na Social Miner, formado em Redes de Computadores pela Universidade Nove de Julho. Possuo experiência como instrutor de cursos voltados ao Sistema Operacional Linux e Ferramentas de Monitoramento OpenSource.
+Atuo como DevOps Engineer na All In, formado em Redes de Computadores pela Universidade Nove de Julho. Possuo experiência como instrutor de cursos voltados ao Sistema Operacional Linux e Ferramentas de Monitoramento OpenSource.
 
 ##
 
